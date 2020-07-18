@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Pacifico&display=swap');
+body{
+    margin: 0;
+}
+#socialmedia{
+    float: right;
+    margin-top: 60px;
+    margin-right: 10px;
+}
+#header{
+    display: inline-block;
+    
+}
+div img:nth-child(7){
+    margin-left: 10px;
+}
+#header h2{
+
+ font-family: 'Pacifico', cursive;
+ font-size: 35px;
+ font-style: italic;
+ margin-bottom: 0px;
+
+}
+
+#header h4{
+    margin-top: 0px;
+    color: grey;
+}
+#logo{
+    margin: 15px;
+    margin-top: 30px;  
+}
+header{
+    margin-left:15%;
+    width: 900px;
+}
+#title{
+    float:left;
+   
+    text-align: left;
+    
+}
+#title h4{
+    color: silver;
+    margin-top: 0px;
+}
+#title h2{
+    font-family: 'Anton', sans-serif;
+    font-size: 2.5em;
+    margin-bottom: 0px;
+
+}
+#print h6{
+    color:silver;
+    float: right;
+}
+#print img{
+    float: left;
+    margin-top: 25px;  
+}
+#print{
+    float:right;
+    margin-top: 50px;
+
+}
+.tandp{
+    width: 900px;
+    margin-left: 15%;
+}
+#choco{
+    margin: auto;
+    margin-top: 100px;
+    margin-left: 15%;
+    width: 960px;
+    position: relative;
+}
+#para p{
+    margin-left: 15%;
+    width: 901px;
+    font-family:'Times New Roman', Times, serif ;
+}
+#lists{
+    background-image: url(imgs/list-bg.png);
+    width: 901px;
+    height:305px;
+    margin-left: 14%;
+    font-size: 20px;
+    padding-bottom: 30px;
+    
+}
+#lists #leftlist{
+    list-style: none;
+    font-family: cursive;
+    float: left;
+}
+#lists #rightlist{
+    list-style: none;
+    font-family: cursive;   
+    float: right;
+}
+.footer{
+    width: 900px;
+    margin-left: 15%;
+}
+.footer .bio{
+    display: inline-block;
+   
+}
+
+ .submit {
+    width: fit-content;
+    
+    float: right;
+    
+  
+}
+
+button{
+    color: white;
+    background-color: brown;
+  
+    font-size: 20px;
+    padding: 15px;
+    margin-top: 25px;
+    
+}
+.last img{
+    display: block;
+    margin: auto;
+    margin-top: -25px;
+}
+.last p{
+    text-align: center;
+    color: silver;
+    font: size 1.5em;
+}
+.line2 {
+    background-image: url(imgs/hr-img.png) ;
+    width: 900px;
+    margin-left: 15%;
+    height: 20px;
+
+}
+.line3 {
+    background-image: url(imgs/hr-img.png) ;
+width: 900px;
+margin-left: 15%;
+height: 15px;
+
+}
